@@ -1,6 +1,10 @@
 body {
-    color: white;
-    background-color: rgb(234, 171, 78);
+  margin: 0; /* this resets the browser-set default margin style */
+  padding: 0; /*this resets the browser-set default padding style*/
+  color: white;
+  background-color: rgb(241, 178, 115);
+  font-family: sans-serif; /* font-size: px; */
+  min-height: 100vh; /*in css grid section fundamentals - stretching height of the viewport*/
 }
 
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
