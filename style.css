@@ -15,7 +15,8 @@ body {
 .navigation-bar {
     background-color: white;
     height: 50px;
-    /* using flexbox below */
+    /* using flexbox below. In researching which is best to use for nav bars,
+    flexbox is better for a more 1 D layout*/
     display: flex; 
     justify-content: space-evenly; /*spaced evenly between them so space also on left and right*/
     align-items: center; /*centered words and aligned in the middle of 50px*/
