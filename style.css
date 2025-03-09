@@ -4,7 +4,7 @@ body {
   color: white;
   background-color: rgba(241, 178, 115);
   filter: sepia(100%);
-  font-family: sans-serif; /* font-size: px; */
+  font-family: Helvetica, sans-serif; /* font-size: px; */
   min-height: 100vh; /*in css grid section fundamentals - stretching height of the viewport*/
 }
 
@@ -13,6 +13,7 @@ body {
 } */
 
 .navigation-bar {
+    background-color: white;
     height: 50px;
     /* using flexbox below */
     display: flex; 
