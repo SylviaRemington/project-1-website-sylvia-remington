@@ -11,3 +11,14 @@ body {
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
     color: white;
 } */
+
+.navigation-bar {
+    height: 50px;
+    /* using flexbox below */
+    display: flex; 
+    justify-content: space-evenly; /*spaced evenly between them so space also on left and right*/
+    align-items: center; /*centered words and aligned in the middle of 50px*/
+    border-top-left-radius: 10px; /*for making a slight curve at the top left corner of page*/
+    border-top-right-radius: 10px;
+    
+}
