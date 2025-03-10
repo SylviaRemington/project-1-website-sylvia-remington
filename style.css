@@ -10,6 +10,11 @@ body {
   /* grid-template-rows: auto auto 1fr 2fr auto;/*attempting to add CSS Grid
   grid-template-columns: 1fr 2fr;
   grid-column: span 2; */
+  grid-template-areas:
+    "nav nav nav nav" /*placing area names in rows and columns as I want them named*/
+    "img"
+    "aside main main"
+    "footer footer footer footer";
 }
 
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
