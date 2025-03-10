@@ -7,6 +7,9 @@ body {
   font-family: Helvetica, sans-serif; /* font-size: px; */
   min-height: 100vh; /*in css grid section fundamentals - stretching height of the viewport*/
   display: grid;
+  /* grid-template-rows: auto auto 1fr 2fr auto;/*attempting to add CSS Grid
+  grid-template-columns: 1fr 2fr;
+  grid-column: span 2; */
 }
 
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
