@@ -1,9 +1,11 @@
 body {
   margin: 0; /* this resets the browser-set default margin style */
   padding: 0; /*this resets the browser-set default padding style*/
+
   color: white;
   background-color: rgba(241, 178, 115);
   filter: sepia(100%);
+
   font-family: Helvetica, sans-serif; /* font-size: px; */
   min-height: 100vh; /*in css grid section fundamentals - stretching height of the viewport*/
   display: grid;
@@ -20,10 +22,10 @@ body {
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
     color: white;
 } */
-
 .navigation-bar {
   background-color: white;
   height: 50px;
+  
   /* using flexbox below. In researching which is best to use for nav bars,
     flexbox is better for a more 1 D layout*/
   display: flex;
