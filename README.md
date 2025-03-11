@@ -22,9 +22,9 @@ Ideas I'd like to create:
 
 (2) Create a modal pop up box/large-square-overlay when have been on the site for about 30 seconds where user can input their name and email to get updates
 
-(2.5) Create a pop up box to say, "I just found out I am a Nigerian princess and have so much money. If you'd like to be entered in the drawing for my millions, click here."
+(2.5) Create a modal pop up box to say, "I just found out I am a Nigerian princess and have so much money. If you'd like to be entered in the drawing for my millions, click here."
 
-(3) Create the main photo to stay where it's at and have the main & side content scroll above it. I'd really like 3 cascading photos underneath that the further you scroll, the more you see the different images
+(3) Create the main photo to stay where it's at and have the main & side content scroll above it. I'd really like 3 cascading photos underneath that the further you scroll, the more you see the different images / I think this is called "Scroll Spy: as the user scrolls down, content is revealed/animated."
 
 (4) Social media links
 
