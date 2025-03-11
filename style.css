@@ -17,6 +17,19 @@ body {
     "footer footer footer footer";
 }
 
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: black;
+}
+
+h2 {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
 /* .nav / or .nav-links / or .class??? { //what do I need to select to make nav bar white?
     color: white;
 } */
