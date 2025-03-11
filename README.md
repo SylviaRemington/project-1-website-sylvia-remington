@@ -31,3 +31,7 @@ Ideas I'd like to create:
 (5) Other ideas: 
 (a) hover where user hovers over something and more pertinent info appears
 (b) a drop down menu for "creative pursuits" section
+
+(6) Create a "like" button for my blogs section
+
+(7) Create a comments section where user can interact with the webpage and share ideas/suggestions.

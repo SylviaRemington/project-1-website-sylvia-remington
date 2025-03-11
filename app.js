@@ -9,3 +9,4 @@
 //             const pageName = link.textContent.trim(); // Get link text
 //             if (pages[pageName]) {
 //                 window.open(pages[pageName], "_blank"); // Open in a new tab
+
