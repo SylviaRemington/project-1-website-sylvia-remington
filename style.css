@@ -33,13 +33,23 @@ body {
   border-top-right-radius: 10px;
 }
 
-aside {
-    background-color: aquamarine;
-    color: black;
+div { /*This is so that main photo and video are centered and at top.*/
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 25vh; /*so 25% of the page*/
 }
 
 main {
     background-color: grey;
+}
+
+aside {
+    background-color: aquamarine;
+    color: black;
 }
 
 footer {
