@@ -6,7 +6,16 @@
 // Ideas I'd like to create: 
 // (1) Ability to click on nav bar links and have them lead to a different page. 
 
-const likeButtonElement = document.querySelector('#like-button');
+// Sample
+// const likeButtonElement = document.querySelector('#like-button'); //SAMPLE
+// console.dir(likeButtonElement); //SAMPLE
 
-console.dir(likeButtonElement);
+
+//Actual coding for the website
+//Trying to click on navigation bar to create an event listener. Don't get what I'm supposed to select.
+// const aboutMe = document.querySelector('about-me'); //This says not defined. Trying something else.
+// console.dir(aboutMe);
+
+// const navigationBar = document.querySelector('#navigation-bar'); //This says not defined.
+// console.dir(navigationBar);
   
