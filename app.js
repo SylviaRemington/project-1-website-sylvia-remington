@@ -1,13 +1,12 @@
-// document.addEventListener("DOMContentLoaded", () => {
-//     // Select all nav links
-//     const navLinks = document.querySelectorAll(".navigation-bar a");
+// const prompt = require('prompt-sync')(); IN CASE I WANT TO ADD PROMPTS IN THE FUTURE TO MY CODE
+// const username = prompt('What is your name? ');
+// console.log(`Your name is ${username}`);
 
 
-//     navLinks.forEach(link => {
-//         link.addEventListener("click", (event) => {
-//             event.preventDefault(); // Prevent default navigation
-//             const pageName = link.textContent.trim(); // Get link text
-//             if (pages[pageName]) {
-//                 window.open(pages[pageName], "_blank"); // Open in a new tab
+// Ideas I'd like to create: 
+// (1) Ability to click on nav bar links and have them lead to a different page. 
 
+const likeButtonElement = document.querySelector('#like-button');
+
+console.dir(likeButtonElement);
   
